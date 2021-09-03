@@ -1,0 +1,79 @@
+{
+  "id": "866f3c46-9fd1-4c43-b0df-79d58d743df4",
+  "displayName": "SCK-M-8S-20A_ERRORS",
+  "deviceType": "STRING",
+  "readDelayInMs": 10000,
+  "timeoutInMs": 10,
+  "dataPointsPerRequest": 125,
+  "registersPerRequest": 125,
+  "fillRegisters": true,
+  "lastChange": 1630425929961,
+  "valueRegisters": [
+    {
+      "abbreviation": "ERROR1",
+      "dataType": "U16",
+      "factor": 1,
+      "functionCode": 3,
+      "offset": 0,
+      "length": 1,
+      "minValue": -9007199254740991,
+      "maxValue": 9007199254740991,
+      "register": 88,
+      "byteOrder": 1,
+      "wordOrder": 1
+    },
+    {
+      "abbreviation": "ERROR2",
+      "dataType": "U16",
+      "factor": 1,
+      "functionCode": 3,
+      "offset": 0,
+      "length": 1,
+      "minValue": -9007199254740991,
+      "maxValue": 9007199254740991,
+      "register": 89,
+      "byteOrder": 1,
+      "wordOrder": 1
+    },
+    {
+      "abbreviation": "ERROR3",
+      "dataType": "U16",
+      "factor": 1,
+      "functionCode": 3,
+      "offset": 0,
+      "length": 1,
+      "minValue": -9007199254740991,
+      "maxValue": 9007199254740991,
+      "register": 90,
+      "byteOrder": 1,
+      "wordOrder": 1
+    },
+    {
+      "abbreviation": "ERROR4",
+      "dataType": "U16",
+      "factor": 1,
+      "functionCode": 3,
+      "offset": 0,
+      "length": 1,
+      "minValue": -9007199254740991,
+      "maxValue": 9007199254740991,
+      "register": 91,
+      "byteOrder": 1,
+      "wordOrder": 1
+    },
+    {
+      "abbreviation": "ERROR5",
+      "dataType": "U16",
+      "factor": 1,
+      "functionCode": 3,
+      "offset": 0,
+      "length": 1,
+      "minValue": -9007199254740991,
+      "maxValue": 9007199254740991,
+      "register": 92,
+      "byteOrder": 1,
+      "wordOrder": 1
+    }
+  ],
+  "oneBasedAddress": false
+}
